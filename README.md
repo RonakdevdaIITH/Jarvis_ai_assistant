@@ -1,6 +1,4 @@
 You can use this assistant in your PC you just have to download jarvis.py and run it in your pc.
-
-
 This is Jarvis AI it can do many simple task like opening youtude/google ,search something on wikipedia ,play music,play movies,open  your useful apps and many other things.you can add some of your task as per your choice .
 
 Some of commands you can try :
